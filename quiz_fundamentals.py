@@ -26,5 +26,3 @@ print(square)
 print(intro + first_name)
 print(f"{intro} {first_name}")
 
-def calculate_area(length, width):
-    return length * width
